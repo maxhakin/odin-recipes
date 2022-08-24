@@ -1,0 +1,58 @@
+.recipe {
+
+background-color: aquamarine;
+text-align: center;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+
+  font-size: 40px;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: aquamarine;
+  color: black;
+
+}
+
+img {
+
+  text-align: center;
+  height: auto;
+  width: 500px;
+}
+
+h3 {
+
+  font-size: 30px;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: aqua;
+  color: black;
+
+}
+
+p, ul, ol {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.description {
+
+  text-align: center;
+
+}
+
+ul, ol {
+
+font-size: 17px;
+
+}
+
+p {
+
+  font-size: 20px;
+
+}
